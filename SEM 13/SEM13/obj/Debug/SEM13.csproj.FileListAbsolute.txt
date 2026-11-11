@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\bin\Debug\SEM13.exe.config
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\bin\Debug\SEM13.exe
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\bin\Debug\SEM13.pdb
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\obj\Debug\SEM13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\obj\Debug\SEM13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\obj\Debug\SEM13.exe
+C:\Users\user\Desktop\INISCO\SEM 13\SEM13\obj\Debug\SEM13.pdb
