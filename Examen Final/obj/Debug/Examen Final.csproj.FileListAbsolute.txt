@@ -1,0 +1,8 @@
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\bin\Debug\Examen Final.exe.config
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\bin\Debug\Examen Final.exe
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\bin\Debug\Examen Final.pdb
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\obj\Debug\Examen Final.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\obj\Debug\Examen Final.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\obj\Debug\Examen Final.exe
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\obj\Debug\Examen Final.pdb
+C:\Users\UPN\Downloads\Examen Final Introduccion Sist. Compu\Examen Final\obj\Debug\Examen Final.exe.config
